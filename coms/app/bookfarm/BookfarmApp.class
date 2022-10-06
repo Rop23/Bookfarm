@@ -1,0 +1,10 @@
+Êþº¾   < 
+       java/lang/Object <init> ()V   %com/apps/bookfarm/BookfarmApplication
+ 
+ 
+   
+  *org/springframework/boot/SpringApplication run b(Ljava/lang/Class;[Ljava/lang/String;)Lorg/springframework/context/ConfigurableApplicationContext; Code LineNumberTable LocalVariableTable this 'Lcom/apps/bookfarm/BookfarmApplication; main ([Ljava/lang/String;)V args [Ljava/lang/String; MethodParameters 
+SourceFile BookfarmApplication.java RuntimeVisibleAnnotations >Lorg/springframework/boot/autoconfigure/SpringBootApplication; !                /     *· ±                         	       6      *¸ 	W±       
+    
+   
+                                 
