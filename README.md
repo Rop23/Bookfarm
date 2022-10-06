@@ -1,2 +1,2 @@
-# Bookfarm Completion of the book module
+# Bookfarm
 117864 Rop Emmanuel Kiptum
